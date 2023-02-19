@@ -1,8 +1,7 @@
 - 👋 Yo, I’m @quincythai
 - 👀 I’m majoring in software engineering/computer science
-- 🌱 I’m currently learning Object Oriented Programming (CSCI-15) at Chabot College
-- 💞️ I’m looking to collaborate on anything, really. 
-- 📫 Reach me @q.thai.us@gmail.com
+- 🌱 I’m currently learning Assembly Language at Chabot College
+- 📫 Reach me Quincy#4734 on Discord.
 
 <!---
 quincythai/quincythai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
