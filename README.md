@@ -1,5 +1,5 @@
 - 👋 Yo, I’m @quincythai
-- 👀 I’m majoring in software engineering/computer science
+- 👀 I’m majoring in computer science
 - 🌱 I’m currently learning Assembly Language at Chabot College
 - 📫 Reach me Quincy#4734 on Discord.
 
