@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @quincythai
 - 👀 I’m majoring in computer science
-- 🌱 I’m currently learning Assembly Language at Chabot College
+- 🌱 I’m currently learning Data Structures and Algorithms at UC Berkeley
 - 📫 Reach me Quincy#4734 on Discord.
 
 <!---
