@@ -1,6 +1,5 @@
 - 👋 Yo, I’m @quincythai
-- 👀 I’m majoring in computer science
-- 🌱 I’m currently learning Data Structures at UC Berkeley
+- 🌱 I’m currently studying Computer Science at UC Berkeley
 - 📫 Reach me at quincythai on discord
 
 <!---
